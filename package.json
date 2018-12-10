@@ -1,0 +1,23 @@
+{
+  "name": "react-router-demo",
+  "version": "1.0.0",
+  "description": "使用 React Router V4 做一个简单的登录鉴权 Demo",
+  "keywords": ["redux", "react-router"],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-redux": "6.0.0",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "2.0.3",
+    "redux": "4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
